@@ -1,0 +1,6 @@
+['Lower guess', 500, datetime.datetime(2025, 4, 19, 16, 33, 11, 753569)] 
+['ValueError', 'j', datetime.datetime(2025, 4, 19, 16, 33, 14, 793075)] 
+['ValueError', 'j', datetime.datetime(2025, 4, 19, 16, 33, 15, 319574)] 
+['ValueError', 'j', datetime.datetime(2025, 4, 19, 16, 33, 15, 816612)] 
+['Bigger quess', 555, datetime.datetime(2025, 4, 19, 16, 33, 18, 713550)] 
+['WIN!', 554, datetime.datetime(2025, 4, 19, 16, 33, 20, 665839)] 
