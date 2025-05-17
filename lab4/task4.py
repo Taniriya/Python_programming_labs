@@ -1,6 +1,5 @@
 from random import randint
 import datetime as dt
-from xml.sax.saxutils import escape
 
 
 def set_balance(a):
